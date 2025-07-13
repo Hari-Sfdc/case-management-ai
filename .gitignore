@@ -1,0 +1,13 @@
+# Salesforce DX project
+node_modules/
+.sfdx/
+coverage/
+*.log
+*.localdevserver
+.env
+.vscode/
+.classpath
+.project
+.settings/
+.idea/
+*.iml
